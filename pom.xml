@@ -6,7 +6,7 @@
 
     <groupId>io.github.otaka</groupId>
     <artifactId>swinglayoutbuilder</artifactId>
-    <version>0.2</version>
+    <version>0.3</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
